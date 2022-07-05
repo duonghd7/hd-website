@@ -1,9 +1,9 @@
 ---
-sidebar_position: 1
-slug: /
+sidebar_position: 2
+slug: /admin
 ---
 
-# Tutorial Intro
+# Admin
 
 Let's discover **Markdown**!
 
